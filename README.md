@@ -345,15 +345,18 @@ Railway-Passengers-and-Revenue-Analyst/
 
 ### Railway Performance Overview
 
-![Railway Performance Overview](Screenshot/Railway%20Performence%20Overview.png)
+<img width="870" height="490" alt="Railway Performance Overview" src="https://github.com/user-attachments/assets/d01d51f1-fad2-4c1e-8097-2b4370c3d8f7" />
+
 
 ### Passenger Analysis Dashboard
 
-![Passenger Analysis Dashboard](Screenshot/Passenger%20Analyst%20Dashboard.png)
+<img width="872" height="490" alt="Passenger Analyst Dashboard" src="https://github.com/user-attachments/assets/d0850abc-4b9d-42c1-a059-c15a1cd186c7" />
+
 
 ### Revenue Analysis Dashboard
 
-![Revenue Analysis Dashboard](Screenshot/Revenue%20Analysis%20Dashboard.png)
+<img width="872" height="492" alt="Revenue Analysis Dashboard" src="https://github.com/user-attachments/assets/9ff279ec-c5fc-4edc-92d7-5a5cf86e7c02" />
+
 
 ---
 
