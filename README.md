@@ -454,11 +454,23 @@ This repository contains:
 
 ## 👨‍💻 Author
 
-**Yakesh Chinnayan**
+**Yakesh C**
 
 **Project:** Railway Passengers and Revenue Analyst
 
+**Industry:** Railway Transportation & Data Analytics
+
 **Focus:** Data Analytics | SQL | Power BI | Data Visualization
+
+**Organization:** Anudip Foundation 
+
+**Course:** Data and Business Analyst with AI
+
+**Branch:** TNJPM (Pallavaram)
+
+**Batch Code:** ANP-D3676
+
+**Student ID:** AF05258346
 
 ---
 
