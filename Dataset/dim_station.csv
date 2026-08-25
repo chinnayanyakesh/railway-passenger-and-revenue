@@ -1,0 +1,113 @@
+Station_Code,Station_ID,Station_Name,City,State,Zone_Code,Division,Station_Category
+CR01,1,Mumbai Junction 1,Mumbai,Maharashtra,CR,Central,A1
+CR02,2,Mumbai Junction 2,Mumbai,Maharashtra,CR,Central,A1
+CR03,3,Mumbai Junction 3,Mumbai,Maharashtra,CR,Central,A
+CR04,4,Mumbai Junction 4,Mumbai,Maharashtra,CR,Central,A
+CR05,5,Mumbai Junction 5,Mumbai,Maharashtra,CR,Central,A
+CR06,6,Mumbai Junction 6,Mumbai,Maharashtra,CR,Central,A
+CR07,7,Mumbai Junction 7,Mumbai,Maharashtra,CR,Central,A
+CR08,8,Mumbai Junction 8,Mumbai,Maharashtra,CR,Central,A
+ER01,9,Kolkata Junction 1,Kolkata,West Bengal,ER,Eastern,A1
+ER02,10,Kolkata Junction 2,Kolkata,West Bengal,ER,Eastern,A1
+ER03,11,Kolkata Junction 3,Kolkata,West Bengal,ER,Eastern,A
+ER04,12,Kolkata Junction 4,Kolkata,West Bengal,ER,Eastern,A
+ER05,13,Kolkata Junction 5,Kolkata,West Bengal,ER,Eastern,A
+ER06,14,Kolkata Junction 6,Kolkata,West Bengal,ER,Eastern,A
+ER07,15,Kolkata Junction 7,Kolkata,West Bengal,ER,Eastern,A
+ER08,16,Kolkata Junction 8,Kolkata,West Bengal,ER,Eastern,A
+EC01,17,Hajipur Junction 1,Hajipur,Bihar,ECR,East,A1
+EC02,18,Hajipur Junction 2,Hajipur,Bihar,ECR,East,A1
+EC03,19,Hajipur Junction 3,Hajipur,Bihar,ECR,East,A
+EC04,20,Hajipur Junction 4,Hajipur,Bihar,ECR,East,A
+EC05,21,Hajipur Junction 5,Hajipur,Bihar,ECR,East,A
+EC06,22,Hajipur Junction 6,Hajipur,Bihar,ECR,East,A
+EC07,23,Hajipur Junction 7,Hajipur,Bihar,ECR,East,A
+EC08,24,Hajipur Junction 8,Hajipur,Bihar,ECR,East,A
+NR01,33,New Delhi Junction 1,New Delhi,Delhi,NR,Northern,A1
+NR02,34,New Delhi Junction 2,New Delhi,Delhi,NR,Northern,A1
+NR03,35,New Delhi Junction 3,New Delhi,Delhi,NR,Northern,A
+NR04,36,New Delhi Junction 4,New Delhi,Delhi,NR,Northern,A
+NR05,37,New Delhi Junction 5,New Delhi,Delhi,NR,Northern,A
+NR06,38,New Delhi Junction 6,New Delhi,Delhi,NR,Northern,A
+NR07,39,New Delhi Junction 7,New Delhi,Delhi,NR,Northern,A
+NR08,40,New Delhi Junction 8,New Delhi,Delhi,NR,Northern,A
+NC01,41,Prayagraj Junction 1,Prayagraj,Uttar Pradesh,NCR,North,A1
+NC02,42,Prayagraj Junction 2,Prayagraj,Uttar Pradesh,NCR,North,A1
+NC03,43,Prayagraj Junction 3,Prayagraj,Uttar Pradesh,NCR,North,A
+NC04,44,Prayagraj Junction 4,Prayagraj,Uttar Pradesh,NCR,North,A
+NC05,45,Prayagraj Junction 5,Prayagraj,Uttar Pradesh,NCR,North,A
+NC06,46,Prayagraj Junction 6,Prayagraj,Uttar Pradesh,NCR,North,A
+NC07,47,Prayagraj Junction 7,Prayagraj,Uttar Pradesh,NCR,North,A
+NC08,48,Prayagraj Junction 8,Prayagraj,Uttar Pradesh,NCR,North,A
+NE01,49,Gorakhpur Junction 1,Gorakhpur,Uttar Pradesh,NER,North,A1
+NE02,50,Gorakhpur Junction 2,Gorakhpur,Uttar Pradesh,NER,North,A1
+NE03,51,Gorakhpur Junction 3,Gorakhpur,Uttar Pradesh,NER,North,A
+NE04,52,Gorakhpur Junction 4,Gorakhpur,Uttar Pradesh,NER,North,A
+NE05,53,Gorakhpur Junction 5,Gorakhpur,Uttar Pradesh,NER,North,A
+NE06,54,Gorakhpur Junction 6,Gorakhpur,Uttar Pradesh,NER,North,A
+NE07,55,Gorakhpur Junction 7,Gorakhpur,Uttar Pradesh,NER,North,A
+NE08,56,Gorakhpur Junction 8,Gorakhpur,Uttar Pradesh,NER,North,A
+NF01,57,Guwahati Junction 1,Guwahati,Assam,NFR,Northeast,A1
+NF02,58,Guwahati Junction 2,Guwahati,Assam,NFR,Northeast,A1
+NF03,59,Guwahati Junction 3,Guwahati,Assam,NFR,Northeast,A
+NF04,60,Guwahati Junction 4,Guwahati,Assam,NFR,Northeast,A
+NF05,61,Guwahati Junction 5,Guwahati,Assam,NFR,Northeast,A
+NF06,62,Guwahati Junction 6,Guwahati,Assam,NFR,Northeast,A
+NF07,63,Guwahati Junction 7,Guwahati,Assam,NFR,Northeast,A
+NF08,64,Guwahati Junction 8,Guwahati,Assam,NFR,Northeast,A
+NW01,65,Jaipur Junction 1,Jaipur,Rajasthan,NWR,North,A1
+NW02,66,Jaipur Junction 2,Jaipur,Rajasthan,NWR,North,A1
+NW03,67,Jaipur Junction 3,Jaipur,Rajasthan,NWR,North,A
+NW04,68,Jaipur Junction 4,Jaipur,Rajasthan,NWR,North,A
+NW05,69,Jaipur Junction 5,Jaipur,Rajasthan,NWR,North,A
+NW06,70,Jaipur Junction 6,Jaipur,Rajasthan,NWR,North,A
+NW07,71,Jaipur Junction 7,Jaipur,Rajasthan,NWR,North,A
+NW08,72,Jaipur Junction 8,Jaipur,Rajasthan,NWR,North,A
+SC01,73,Secunderabad Junction 1,Secunderabad,Telangana,SCR,South,A1
+SC02,74,Secunderabad Junction 2,Secunderabad,Telangana,SCR,South,A1
+SC03,75,Secunderabad Junction 3,Secunderabad,Telangana,SCR,South,A
+SC04,76,Secunderabad Junction 4,Secunderabad,Telangana,SCR,South,A
+SC05,77,Secunderabad Junction 5,Secunderabad,Telangana,SCR,South,A
+SC06,78,Secunderabad Junction 6,Secunderabad,Telangana,SCR,South,A
+SC07,79,Secunderabad Junction 7,Secunderabad,Telangana,SCR,South,A
+SC08,80,Secunderabad Junction 8,Secunderabad,Telangana,SCR,South,A
+SE01,81,Bilaspur Junction 1,Bilaspur,Chhattisgarh,SECR,South,A1
+SE02,82,Bilaspur Junction 2,Bilaspur,Chhattisgarh,SECR,South,A1
+SE03,83,Bilaspur Junction 3,Bilaspur,Chhattisgarh,SECR,South,A
+SE04,84,Bilaspur Junction 4,Bilaspur,Chhattisgarh,SECR,South,A
+SE05,85,Bilaspur Junction 5,Bilaspur,Chhattisgarh,SECR,South,A
+SE06,86,Bilaspur Junction 6,Bilaspur,Chhattisgarh,SECR,South,A
+SE07,87,Bilaspur Junction 7,Bilaspur,Chhattisgarh,SECR,South,A
+SE08,88,Bilaspur Junction 8,Bilaspur,Chhattisgarh,SECR,South,A
+SW01,97,Hubballi Junction 1,Hubballi,Karnataka,SWR,South,A1
+SW02,98,Hubballi Junction 2,Hubballi,Karnataka,SWR,South,A1
+SW03,99,Hubballi Junction 3,Hubballi,Karnataka,SWR,South,A
+SW04,100,Hubballi Junction 4,Hubballi,Karnataka,SWR,South,A
+SW05,101,Hubballi Junction 5,Hubballi,Karnataka,SWR,South,A
+SW06,102,Hubballi Junction 6,Hubballi,Karnataka,SWR,South,A
+SW07,103,Hubballi Junction 7,Hubballi,Karnataka,SWR,South,A
+SW08,104,Hubballi Junction 8,Hubballi,Karnataka,SWR,South,A
+SR01,105,Chennai Junction 1,Chennai,Tamil Nadu,SR,Southern,A1
+SR02,106,Chennai Junction 2,Chennai,Tamil Nadu,SR,Southern,A1
+SR03,107,Chennai Junction 3,Chennai,Tamil Nadu,SR,Southern,A
+SR04,108,Chennai Junction 4,Chennai,Tamil Nadu,SR,Southern,A
+SR05,109,Chennai Junction 5,Chennai,Tamil Nadu,SR,Southern,A
+SR06,110,Chennai Junction 6,Chennai,Tamil Nadu,SR,Southern,A
+SR07,111,Chennai Junction 7,Chennai,Tamil Nadu,SR,Southern,A
+SR08,112,Chennai Junction 8,Chennai,Tamil Nadu,SR,Southern,A
+WC01,113,Jabalpur Junction 1,Jabalpur,Madhya Pradesh,WCR,West,A1
+WC02,114,Jabalpur Junction 2,Jabalpur,Madhya Pradesh,WCR,West,A1
+WC03,115,Jabalpur Junction 3,Jabalpur,Madhya Pradesh,WCR,West,A
+WC04,116,Jabalpur Junction 4,Jabalpur,Madhya Pradesh,WCR,West,A
+WC05,117,Jabalpur Junction 5,Jabalpur,Madhya Pradesh,WCR,West,A
+WC06,118,Jabalpur Junction 6,Jabalpur,Madhya Pradesh,WCR,West,A
+WC07,119,Jabalpur Junction 7,Jabalpur,Madhya Pradesh,WCR,West,A
+WC08,120,Jabalpur Junction 8,Jabalpur,Madhya Pradesh,WCR,West,A
+WR01,121,Mumbai Junction 1,Mumbai,Maharashtra,WR,Western,A1
+WR02,122,Mumbai Junction 2,Mumbai,Maharashtra,WR,Western,A1
+WR03,123,Mumbai Junction 3,Mumbai,Maharashtra,WR,Western,A
+WR04,124,Mumbai Junction 4,Mumbai,Maharashtra,WR,Western,A
+WR05,125,Mumbai Junction 5,Mumbai,Maharashtra,WR,Western,A
+WR06,126,Mumbai Junction 6,Mumbai,Maharashtra,WR,Western,A
+WR07,127,Mumbai Junction 7,Mumbai,Maharashtra,WR,Western,A
+WR08,128,Mumbai Junction 8,Mumbai,Maharashtra,WR,Western,A
