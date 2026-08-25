@@ -478,6 +478,7 @@ This repository contains:
 
 - SQL
 - MySQL
+- Excel
 - Data Cleaning & Validation
 - Relational Database Design
 - Data Modeling
